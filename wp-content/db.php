@@ -1,0 +1,1 @@
+/Users/abroudoux/Local Sites/wordpress-theme-introduction/app/public/wp-content/plugins/query-monitor/wp-content/db.php
